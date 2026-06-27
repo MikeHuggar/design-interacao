@@ -1,0 +1,31 @@
+{
+  "questoes": [
+    {
+      "titulo": "O que significa IFRS?",
+      "opcoes": [
+        "Instituto Federal do Rio Grande do Sul",
+        "Internato para Ferrados Risonhos e Sacanas",
+        "Impondo Falácias Retroativamente Sábias"
+      ],
+      "opcaoCorreta": 0
+    },
+    {
+      "titulo": "O que significa CSS?",
+      "opcoes": [
+        "Computer Scene Styles",
+        "Cascading Style Sheets",
+        "Combining Style Structure"
+      ],
+      "opcaoCorreta": 1
+    },
+    {
+      "titulo": "Quem criou o SO Linux?",
+      "opcoes": [
+        "Ada Lovelace",
+        "Alan Mathison Turing",
+        "Linus Torvalds"
+      ],
+      "opcaoCorreta": 2
+    }
+  ]
+}
